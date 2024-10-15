@@ -7,9 +7,10 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=ulianaianova&style=flat-square&color=blue" alt=""/>
 <h1>
-  
 
-<div align="left" style="font-size: 11px;">
+  ---
+
+ <div align="left" style="font-size: 11px !important;">
  :woman_technologist: About Me :
 
 - I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
@@ -37,6 +38,6 @@
 
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmo0NGRuc3ZqYjM0cG5kcjg5anExajhxdXhkcmQ5YXN6NGh5aG5sYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PmAjqmm4beKervYzFr/giphy.gif" width="600" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmo0NGRuc3ZqYjM0cG5kcjg5anExajhxdXhkcmQ5YXN6NGh5aG5sYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PmAjqmm4beKervYzFr/giphy.gif" width="400" height="200"/>
 </div>
 
