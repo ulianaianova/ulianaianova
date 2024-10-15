@@ -9,7 +9,7 @@
 <h1>
   
 
-<div align="left">
+<div align="left" style="font-size: 11px;">
  :woman_technologist: About Me :
 
 - I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
