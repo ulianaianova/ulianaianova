@@ -8,9 +8,9 @@
 <img src="https://komarev.com/ghpvc/?username=ulianaianova&style=flat-square&color=blue" alt=""/>
 <h1>
 
-  ---
-
- <div align="left" style="font-size: 11px !important;">
+---
+  <div align="left">
+  <span style="font-size: 11px;">
  :woman_technologist: About Me :
 
 - I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
