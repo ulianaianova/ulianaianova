@@ -9,15 +9,16 @@
 <h1>
 
 ---
-
- ### :woman_technologist: About Me :
-* I am  Uliana, a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-* :seedling: Exploring Product Analytics.
-* :zap: In my free time, I read tech articles.
-* 
+  
+### :woman_technologist: About Me :
+- I am  Uliana, a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :seedling: Exploring Product Analytics.
+- :zap: In my free time, I read tech articles.
+ 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
