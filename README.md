@@ -9,16 +9,12 @@
 <h1>
 
 ---
-  <div align="left">
-  <span style="font-size: 11px;">
- :woman_technologist: About Me :
 
-- I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
-- :seedling: Exploring Product Analytics.
-
-- :zap: In my free time, I read tech articles.
-
+ ### :woman_technologist: About Me :
+* I am  Uliana, a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+* :seedling: Exploring Product Analytics.
+* :zap: In my free time, I read tech articles.
+* 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
