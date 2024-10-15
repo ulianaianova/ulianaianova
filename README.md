@@ -27,14 +27,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ulianaianova&theme=dark&background=000000)](https://git.io/streak-stats)
-
----
-
-
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmo0NGRuc3ZqYjM0cG5kcjg5anExajhxdXhkcmQ5YXN6NGh5aG5sYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PmAjqmm4beKervYzFr/giphy.gif" width="400" height="200"/>
-</div>
 
